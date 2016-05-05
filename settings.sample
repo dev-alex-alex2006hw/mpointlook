@@ -1,0 +1,4 @@
+export MONGO_URL="mongodb://127.0.0.1:27017/pointlook"
+export ROOT_URL="http://m.pointlook.com/"
+export MAIL_URL="smtp://xxxxxx@xxxxx.com.au:xxxxxxxx@smtp.mailgun.org:25"
+
