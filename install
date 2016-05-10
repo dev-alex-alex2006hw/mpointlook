@@ -1,0 +1,5 @@
+meteor install-sdk ios
+meteor add-platform ios
+meteor install-sdk android
+meteor add-platform android
+

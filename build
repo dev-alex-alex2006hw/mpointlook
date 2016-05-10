@@ -1,0 +1,1 @@
+meteor build ../m-build --server 192.168.0.110:3000
